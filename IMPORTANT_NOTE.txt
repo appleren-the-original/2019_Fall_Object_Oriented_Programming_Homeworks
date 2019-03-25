@@ -1,0 +1,4 @@
+in this assignment I used mre than one .cpp files.
+
+I used the following command to compile:
+g++ -Wall -Werror main.cpp Vector.cpp Polynomial.cpp -o a1
